@@ -22,7 +22,7 @@
 | Document | Contents | Link |
 |---|---|---|
 | Business Requirements (BRD) | 10 prioritized BRs, stakeholder matrix, risk register, scope | [View PDF](BRD_MindForgeAI.pdf) |
-| Functional Requirements (FRD) | 9 FRs mapped to BRs, business rules, validation logic | [View PDF](FRD_MindForgeAI.pdf)) |
+| Functional Requirements (FRD) | 9 FRs mapped to BRs, business rules, validation logic | [View PDF](FRD_MindForgeAI.pdf) |
 | User Stories & Acceptance Criteria | 10 stories, 7 epics, Given–When–Then format, story points | [View PDF](User_Stories_&_Acceptance_Criteria_MindforgeAi.pdf) |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
